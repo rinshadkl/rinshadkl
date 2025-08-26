@@ -1,24 +1,34 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20I'm%20Rinshad&fontSize=40&animation=fadeIn&fontColor=fff)
-
-# 👋 Hey, I'm Rinshad Kunnummal!
-
-💻 A passionate **Frontend Developer** who loves crafting modern, clean UIs with **React + TailwindCSS**.  
-🚀 Currently working on → [chsoutreach.live](https://chsoutreach.live)  
-🌱 On a journey to sharpen my skills, build cool projects, and contribute to open source.  
+<h1 align="center">👋 Hey, I'm Rinshad Kunnummal</h1>
+<p align="center">Frontend Developer | React Enthusiast | TailwindCSS Lover</p>
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 About Me
+- 💻 Building clean, modern UIs with **React** + **TailwindCSS**
+- 🌱 Learning **Next.js** and advanced React patterns
+- 🔗 Currently working on: [chsoutreach.live](https://chsoutreach.live)
+
+---
+
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6" />
 </p>
 
 ---
+
+## 📊 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rinshadkl&show_icons=true&theme=transparent" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rinshadkl&theme=transparent" width="400" />
+</p>
+
+------
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -27,20 +37,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinshadkl&layout=compact&theme=radical" alt="languages" />
 </p>
 
----
+------
 
-### 🔥 Activity Graph
-[![Rins's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rinshadkl&theme=radical)](https://github.com/rinshadkl)
-
----
-
-### 🎯 Current Goals
-- 🔥 Master **Next.js** & advanced React hooks  
-- 🌍 Contribute to open source  
-- 🛠️ Build side projects with real-world impact  
+## 🎯 Goals
+- ✅ Master **Next.js**
+- ✅ Build real-world projects
+- ✅ Contribute to open source
 
 ---
 
-💡 *“Code is like art — clean, minimal, and expressive.”*  
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<p align="center"><i>"Code is like art — clean, minimal, and expressive."</i></p>
