@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 💻 Building clean, modern UIs with **React** + **TailwindCSS**
 - 🌱 Learning **Next.js** and advanced React patterns
-- 🔗 Currently working on: [chsoutreach.live](https://chsoutreach.live)
+- 🔗 Currently working on: [orbyt](https://github.com/rinshadkl/orbyt-client)
 
 ---
 
