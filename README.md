@@ -32,11 +32,4 @@
 
 ------
 
-## 🎯 Goals
-- ✅ Master **Next.js**
-- ✅ Build real-world projects
-- ✅ Contribute to open source
-
----
-
 <p align="center"><i>"Code is like art — clean, minimal, and expressive."</i></p>
