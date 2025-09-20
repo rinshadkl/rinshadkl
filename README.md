@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Rinshad Kunnummal</h1>
-<p align="center">Frontend Developer | React JS | TailwindCSS | Shadcn | 🇮🇳 From India</p>
+<p align="center">Frontend Developer | React JS | TailwindCSS | Shadcn | Supabase | 🇮🇳 From India</p>
 
 ---
 
