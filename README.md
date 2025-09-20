@@ -1,16 +1,18 @@
-<h1 align="center">👋 Hey, I'm Rinshad Kunnummal</h1>
-<p align="center">Frontend Developer | React JS | TailwindCSS | Shadcn | Supabase | 🇮🇳 From India</p>
+<h1 align="center">Rinshad Kunnummal</h1>
+<p align="center">Vibe Coder • React Developer • UI Enthusiast • 🇮🇳 From India</p>
 
 ---
 
-## 🚀 About Me
-- 💻 Building clean, modern UIs with **React** + **TailwindCSS**
-- 🌱 Learning **Next.js** and advanced React patterns
-- 🔗 Currently working on: [orbyt](https://github.com/rinshadkl/orbyt-client)
+## The Vibe
+The Vibe
+Hey! I'm a frontend developer who codes by feel. No rigid plans, just good music, clean code, and whatever feels right in the moment. Sometimes the best solutions come when you're just flowing with the process.
+Current vibe: Working on [orbyt](https://github.com/rinshadkl/orbyt-client) - building something cool with React
+Learning mood: Exploring Next.js and whatever catches my interest
+Location: India 🇮🇳
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB" />
@@ -22,9 +24,22 @@
   <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=7952B3" />
 </p>
 
+Frontend Flow
+
+JavaScript - Writing it like poetry <br/>
+React - Components that just make sense<br/>
+TailwindCSS - Styling without the stress<br/>
+HTML5 & CSS3 - The classics, done right<br/>
+<br/>
+Tools That Feel Good
+
+Shadcn/ui - Beautiful components, no hassle<br/>
+Supabase - Backend that doesn't kill the vibe<br/>
+Bootstrap - When you need it quick<br/>
+
 ---
 
-## 📊 GitHub Overview
+## 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rinshadkl&show_icons=true&theme=transparent" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rinshadkl&theme=transparent" width="400" />
