@@ -7,7 +7,7 @@
 The Vibe
 Hey! I'm a frontend developer who codes by feel. No rigid plans, just good music, clean code, and whatever feels right in the moment. Sometimes the best solutions come when you're just flowing with the process.
 Current vibe: Working on [orbyt](https://github.com/rinshadkl/orbyt-client) - building something cool with React
-Learning mood: Exploring Next.js and whatever catches my interest
+Learning mood: Exploring React and whatever catches my interest
 Location: India 🇮🇳
 
 ---
