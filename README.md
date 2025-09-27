@@ -42,6 +42,7 @@ Bootstrap - When you need it quick<br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rinshadkl&show_icons=true&theme=transparent" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rinshadkl&theme=transparent" width="400" />
+  ![Metrics](https://github.com/rinshadkl/rinshadkl/blob/main/github-metrics.svg)
 </p>
 
 ------
