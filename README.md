@@ -20,7 +20,7 @@ Location: India 🇮🇳
   <img src="https://img.shields.io/badge/Supabase-000000?style=flat&logo=supabase&logoColor=3ECF8E" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=7952B3" /> -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,figma,codepen,supabase,firebase,heroku,vercel,git,github,bash,pnpm,vscode,notion" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,figma,supabase,firebase,heroku,vercel,git,github,bash,pnpm,vscode,notion" />
 </p>
 
 ---
