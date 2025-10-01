@@ -1,11 +1,9 @@
 <h1 align="center">Rinshad Kunnummal</h1>
-<p align="center">Vibe Coder • React Developer • UI Enthusiast • 🇮🇳 India</p>
+<p align="center">Vibe Coder • React Developer • UI Enthusiast •  🇮🇳 </p>
 
 ---
 
-## The Vibe
 Hey! I'm a frontend developer who codes by feel. No rigid plans, just good music, clean code, and whatever feels right in the moment. Sometimes the best solutions come when you're just flowing with the process.
-Current vibe: Working on [orbyt](https://github.com/rinshadkl/orbyt-client) - building something cool with React
 Learning mood: Exploring React and whatever catches my interest
 Location: India 🇮🇳
 
