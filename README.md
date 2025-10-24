@@ -12,12 +12,6 @@ Location: India 🇮🇳
 
 
 <p align="center">
-  <!-- <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=tailwind-css&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=fff&style=flat" />
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,figma,supabase,firebase,heroku,vercel,git,github,bash,pnpm,vscode,notion" />
 </p>
 
