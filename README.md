@@ -3,13 +3,12 @@
 
 ---
 
-<p align="center">Hey! I'm a frontend developer who codes by feel. No rigid plans, just good music, clean code, and whatever feels right in the moment. Sometimes the best solutions come when you're just flowing with the process.
+<p align="center">Hey! I'm a frontend developer who codes by feel. No rigid plans, just good music, clean code, and whatever feels right in the moment. Sometimes, the best solutions come when you're just flowing with the process.
 Learning mood: Exploring React and whatever catches my interest
 Location: India 🇮🇳
 
   ---
 </p>
-
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,figma,supabase,firebase,heroku,vercel,git,github,bash,pnpm,vscode,notion" />
