@@ -5,7 +5,6 @@
 
 <p align="center">Hey! I'm a frontend developer who codes by feel. No rigid plans, just good music, clean code, and whatever feels right in the moment. Sometimes, the best solutions come when you're just flowing with the process.
 Learning mood: Exploring React and whatever catches my interest
-Location: India 🇮🇳
 
   ---
 </p>
