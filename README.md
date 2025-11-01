@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=supabase,firebase,git,github,vercel,heroku,codepen" alt="Tools & Services" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,notion,bash,pnpm,bootstrap" alt="Utilities" />
+  <img src="https://skillicons.dev/icons?i=discord,figma,vscode,notion,bash,pnpm,bootstrap" alt="Utilities" />
 </p>
 
 
