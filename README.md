@@ -12,10 +12,10 @@
   <img src="https://skillicons.dev/icons?i=react,js,typescript,vite,tailwind,html,css" alt="Core Stack" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,git,github,vercel,heroku,codepen" alt="Tools & Services" />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,git,github,vercel,heroku,codepen,netlify" alt="Tools & Services" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,figma,vscode,notion,bash,pnpm,bootstrap" alt="Utilities" />
+  <img src="https://skillicons.dev/icons?i=discord,figma,vscode,notion,bash,pnpm,bootstrap,npm,visualstudio" alt="Utilities" />
 </p>
 
 
