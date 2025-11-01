@@ -21,4 +21,4 @@
 
 ------
 
-<p align="center"><i>"Code is like art — clean, minimal, and expressive."</i></p>
+<p align="center"><i>"Code is like art — clean, minimal, and expressive"</i></p>
