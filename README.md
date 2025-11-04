@@ -1,5 +1,5 @@
 <h1 align="center">Rinshad Kunnummal</h1>
-<p align="center">React Developer • UI Enthusiast •  🇮🇳 </p>
+<p align="center">React Developer • UI Enthusiast</p>
 
 ---
 
